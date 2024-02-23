@@ -1,2 +1,1 @@
-# Resume
-resume
+This repository contains the source code for my personal portfolio website. The website serves as a showcase of my skills, projects, and experiences . It is designed to provide visitors with an overview of my background, expertise, and accomplishment
